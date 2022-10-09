@@ -1,0 +1,3 @@
+ensure avalibil and stabilty of splunk operational env
+monotoring loggngvaolum,responding to assosalert and collecting licence usage data
+appli sef service onboarding
